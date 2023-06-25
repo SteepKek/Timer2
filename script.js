@@ -1,6 +1,6 @@
 'use strict';
 
-const deadline = '2023-02-14 GMT+02:00';
+const deadline = '2023-07-07 GMT+02:00';
 
 function setTime(endtime) {
 	const t = Date.parse(endtime) - Date.parse(new Date()),
